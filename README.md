@@ -7,7 +7,7 @@
 
 - ⚡ &nbsp; Fun fact **My last name is Espinoza Rodríguez but all people only know Rodríguez**
 
-<h4>I worked with these tecnologies and other not included 😄</h4>
+<h4>I worked with these technologies and other not included 😄</h4>
 
 <p align="center">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
