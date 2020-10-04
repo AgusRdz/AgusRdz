@@ -34,9 +34,6 @@
 </p>
 
 
-🙅🏼‍♂️ *Most of my work is in private repositories so it is a sad thing that the statistics cannot reflect them.*
-
-
 <!--
 **AgusRdz/AgusRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
