@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/linux.png" alt="linux" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/macos.png" alt="macos" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/markdown.png" alt="markdown" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/mysqk.png" alt="mysqk" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/mysql.png" alt="mysql" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/nginx.png" alt="nginx" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/nodejs.png" alt="nodejs" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/npm.png" alt="npm" width="30" height="30"/>
