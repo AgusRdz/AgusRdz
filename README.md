@@ -5,7 +5,7 @@
 
 - 💻 &nbsp; I’m working as Lead Developer at [ClickIt Smart Technologies](https://www.clickittech.com.mx/)
 
-- ⚡ &nbsp; Fun fact **My last name is Espinoza Rodríguez but all people only know Rodríguez**
+- ⚡ &nbsp; Fun fact **I really like using VSCode for coding, but now I'm trying out PHP Storm and starting to enjoy some of its features that I don't know if I go back to VSCode.**
 
 <h4>I worked with these technologies and other not included 😄</h4>
 
@@ -47,6 +47,8 @@
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/vercel.png" alt="vercel" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/vim.png" alt="vim" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/visual-studio-code.png" alt="visual-studio-code" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/phpstorm.png" alt="phpstorm" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/vue.png" alt="vue" width="30" height="30"/>
 </p>
 
 <p align="center">
