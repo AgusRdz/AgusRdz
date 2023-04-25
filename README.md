@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
 <h3 align="center">I'm a web developer passionate about new technologies, currently working with React, node.js and PostgreSQL</h3>
 
-- 💻 &nbsp; I’m currently working at **BrandVerge**
+- 💻 &nbsp; I’m currently working at **CUDDLY Inc.**
 
 - 💻 &nbsp; I’m working as Lead Developer at [ClickIt Smart Technologies](https://www.clickittech.com.mx/)
 
