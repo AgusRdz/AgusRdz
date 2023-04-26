@@ -51,9 +51,9 @@
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/vue.png" alt="vue" width="30" height="30"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agusrdz&show_icons=true&count_private=true" alt="agusrdz" />
-</p>
+</p> -->
 
 <!--
 **AgusRdz/AgusRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
