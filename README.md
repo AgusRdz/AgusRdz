@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
-<h3 align="center">I'm a web developer passionate about new technologies, currently working with React, node.js and PostgreSQL</h3>
+<h3 align="center">I'm a web developer passionate about new technologies, currently working with React, Vue, Laravel and MySQL</h3>
 
 - 💻 &nbsp; I’m currently working at **CUDDLY Inc.**
 
