@@ -3,7 +3,7 @@
 
 - 💻 &nbsp; I’m currently working at **CUDDLY Inc.**
 
-- 💻 &nbsp; I’m working as Lead Developer at [ClickIt Smart Technologies](https://www.clickittech.com.mx/)
+- 💻 &nbsp; I worked as Lead Developer at [ClickIt Smart Technologies](https://www.clickittech.com.mx/) (2015-2024)
 
 - ⚡ &nbsp; Fun fact **I really like using VSCode for coding, but now I'm trying out PHP Storm and starting to enjoy some of its features that I don't know if I go back to VSCode.**
 
