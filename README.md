@@ -1,71 +1,61 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
-<h3 align="center">I'm a web developer passionate about new technologies, currently working with React, Vue, Laravel and MySQL</h3>
+<h3 align="center">Full-stack engineer with 10+ years building web platforms and developer tools - I care as much about clean code and developer experience as I do about shipping great products</h3>
 
-- 💻 &nbsp; I’m currently working at **CUDDLY Inc.**
+- 💻 &nbsp; Currently working as an independent contractor
 
-- 💻 &nbsp; I worked as Lead Developer at [ClickIt Smart Technologies](https://www.clickittech.com.mx/) (2015-2024)
+- 🔭 &nbsp; Expanding my stack into .NET and the Microsoft ecosystem alongside my PHP and JavaScript roots
 
-- ⚡ &nbsp; Fun fact **I really like using VSCode for coding, but now I'm trying out PHP Storm and starting to enjoy some of its features that I don't know if I go back to VSCode.**
+- ⚡ &nbsp; Fun fact **I use Claude Code as my AI pair programmer - once you try it, going back feels weird**
+
+- 📬 &nbsp; Find me at [agusrdz.dev](https://agusrdz.dev)
+
+<br/>
+
+> _Building things that feel right, not just things that work._
 
 <h4>I worked with these technologies and other not included 😄</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/algolia.png" alt="algolia" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/angular.png" alt="angular" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/aws.png" alt="aws" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/bash.png" alt="bash" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/bootstrap.png" alt="bootstrap" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/composer.png" alt="composer" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/css.png" alt="css" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/docker.png" alt="docker" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg" alt="algolia" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="composer" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/es6.png" alt="es6" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/eslint.png" alt="eslint" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/express.png" alt="express" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/git.png" alt="git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/github.png" alt="github" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/html.png" alt="html" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/javascript.png" alt="javascript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/jenkins.png" alt="jenkins" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/jquery.png" alt="jquery" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="eslint" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jquery" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/json.png" alt="json" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/laravel.png" alt="laravel" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/linux.png" alt="linux" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/macos.png" alt="macos" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/markdown.png" alt="markdown" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/mysql.png" alt="mysql" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/nginx.png" alt="nginx" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/nodejs.png" alt="nodejs" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/npm.png" alt="npm" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/php.png" alt="php" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/postgresql.png" alt="postgresql" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/react.png" alt="react" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/redis.png" alt="redis" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/socket-io.png" alt="socket-io" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="macos" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="socket-io" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/terminal.png" alt="terminal" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/ubuntu.png" alt="ubuntu" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/vagrant.png" alt="vagrant" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/vercel.png" alt="vercel" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/vim.png" alt="vim" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/visual-studio-code.png" alt="visual-studio-code" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/phpstorm.png" alt="phpstorm" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/AgusRdz/AgusRdz/master/images/logos/vue.png" alt="vue" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original.svg" alt="vagrant" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="visual-studio-code" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agusrdz&show_icons=true&count_private=true" alt="agusrdz" />
-</p> -->
-
-<!--
-**AgusRdz/AgusRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
