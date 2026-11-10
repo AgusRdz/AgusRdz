@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Agustin</h1>
+<p align="center">
+  <a href="https://agusrdz.dev"><img src="images/brand/banner.png" alt="Agus Rdz" width="100%"/></a>
+</p>
+
 <h3 align="center">Full-stack engineer with 10+ years building web platforms and developer tools - I care as much about clean code and developer experience as I do about shipping great products</h3>
 
 - 💻 &nbsp; Currently working as an independent contractor
@@ -13,44 +16,4 @@
 
 > _Building things that feel right, not just things that work._
 
-<h4>I worked with these technologies and other not included 😄</h4>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" alt="angular"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="aws"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="40" height="40" alt="composer"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="css"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="docker"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="dotnet"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="40" height="40" alt="eslint"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="git"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="html"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="laravel"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="sql-server"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" alt="nginx"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="php"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" width="40" height="40" alt="phpstorm"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="react"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" alt="redis"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="tailwindcss"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="visual-studio"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="vue"/></td>
-    </tr>
-  </table>
-</div>
+**Stack:** .NET · PHP / Laravel · JavaScript (Node.js, Vue, React, Angular) · PostgreSQL · MySQL · SQL Server · Redis · Docker · AWS
